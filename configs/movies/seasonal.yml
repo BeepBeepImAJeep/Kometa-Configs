@@ -33,3 +33,11 @@ collections:
       trakt: 
         - https://trakt.tv/users/k0meta/lists/christmas-extravaganza-non-tv-movie
         - https://trakt.tv/users/ubjeckle/lists/christmas-movies
+  Halloween:
+    template: 
+      name: seasonal
+      season: Halloween
+      schedule: 10/01-11/01
+      trakt: 
+        - https://trakt.tv/users/hdlists/lists/the-top-100-halloween-movies-of-all-time
+        - https://trakt.tv/users/donxy/lists/family-halloween
