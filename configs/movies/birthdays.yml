@@ -24,6 +24,7 @@ collections:
     schedule: "10/08"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Matt Damon
     add_missing: true
 
@@ -32,6 +33,7 @@ collections:
     schedule: "06/04"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Angelina Jolie
     add_missing: true
 
@@ -40,6 +42,7 @@ collections:
     schedule: "12/18"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Brad Pitt
     add_missing: true
 
@@ -48,6 +51,7 @@ collections:
     schedule: "07/26"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Sandra Bullock
     add_missing: true
 
@@ -56,6 +60,7 @@ collections:
     schedule: "06/09"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Johnny Depp
     add_missing: true
 
@@ -64,6 +69,7 @@ collections:
     schedule: "10/28"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Julia Roberts
     add_missing: true
 
@@ -72,6 +78,7 @@ collections:
     schedule: "05/06"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday George Clooney
     add_missing: true
 
@@ -80,6 +87,7 @@ collections:
     schedule: "06/22"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Meryl Streep
     add_missing: true
 
@@ -88,6 +96,7 @@ collections:
     schedule: "09/09"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Hugh Grant
     add_missing: true
 
@@ -96,6 +105,7 @@ collections:
     schedule: "05/14"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Cate Blanchett
     add_missing: true
 
@@ -104,6 +114,7 @@ collections:
     schedule: "06/20"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Nicole Kidman
     add_missing: true
 
@@ -112,6 +123,7 @@ collections:
     schedule: "03/02"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Daniel Craig
     add_missing: true
 
@@ -120,6 +132,7 @@ collections:
     schedule: "03/22"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Reese Witherspoon
     add_missing: true
 
@@ -128,6 +141,7 @@ collections:
     schedule: "08/15"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Ben Affleck
     add_missing: true
 
@@ -136,6 +150,7 @@ collections:
     schedule: "06/09"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Natalie Portman
     add_missing: true
 
@@ -144,6 +159,7 @@ collections:
     schedule: "11/12"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Ryan Gosling
     add_missing: true
 
@@ -152,6 +168,7 @@ collections:
     schedule: "11/12"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Anne Hathaway
     add_missing: true
 
@@ -160,6 +177,7 @@ collections:
     schedule: "08/11"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Chris Hemsworth
     add_missing: true
 
@@ -168,6 +186,7 @@ collections:
     schedule: "04/15"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Emma Watson
     add_missing: true
 
@@ -176,6 +195,7 @@ collections:
     schedule: "07/13"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Harrison Ford
     add_missing: true
 
@@ -184,6 +204,7 @@ collections:
     schedule: "10/12"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Hugh Jackman
     add_missing: true
 
@@ -192,6 +213,7 @@ collections:
     schedule: "04/30"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Gal Gadot
     add_missing: true
 
@@ -200,6 +222,7 @@ collections:
     schedule: "09/25"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Will Smith
     add_missing: true
 
@@ -208,6 +231,7 @@ collections:
     schedule: "04/30"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Ana de Armas
     add_missing: true
 
@@ -216,6 +240,7 @@ collections:
     schedule: "06/13"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Chris Evans
     add_missing: true
 
@@ -224,6 +249,7 @@ collections:
     schedule: "08/15"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Jennifer Lawrence
     add_missing: true
 
@@ -232,6 +258,7 @@ collections:
     schedule: "08/01"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Jason Momoa
     add_missing: true
 
@@ -240,6 +267,7 @@ collections:
     schedule: "01/03"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Florence Pugh
     add_missing: true
 
@@ -248,6 +276,7 @@ collections:
     schedule: "09/06"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Idris Elba
     add_missing: true
 
@@ -256,6 +285,7 @@ collections:
     schedule: "02/23"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Emily Blunt
     add_missing: true
 
@@ -264,6 +294,7 @@ collections:
     schedule: "12/19"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Jake Gyllenhaal
     add_missing: true
 
@@ -272,6 +303,7 @@ collections:
     schedule: "10/01"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Brie Larson
     add_missing: true
 
@@ -280,6 +312,7 @@ collections:
     schedule: "02/09"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Michael B. Jordan
     add_missing: true
 
@@ -288,6 +321,7 @@ collections:
     schedule: "07/19"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Benedict Cumberbatch
     add_missing: true
 
@@ -296,6 +330,7 @@ collections:
     schedule: "08/14"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Mila Kunis
     add_missing: true
 
@@ -304,6 +339,7 @@ collections:
     schedule: "12/21"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Samuel L. Jackson
     add_missing: true
 
@@ -312,6 +348,7 @@ collections:
     schedule: "06/19"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Zoe Saldana
     add_missing: true
 
@@ -320,6 +357,7 @@ collections:
     schedule: "01/30"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Christian Bale
     add_missing: true
 
@@ -328,6 +366,7 @@ collections:
     schedule: "03/24"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Jessica Chastain
     add_missing: true
 
@@ -336,6 +375,7 @@ collections:
     schedule: "11/22"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Mark Ruffalo
     add_missing: true
 
@@ -344,6 +384,7 @@ collections:
     schedule: "08/07"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Charlize Theron
     add_missing: true
 
@@ -352,6 +393,7 @@ collections:
     schedule: "04/06"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Paul Rudd
     add_missing: true
 
@@ -360,6 +402,7 @@ collections:
     schedule: "09/02"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Salma Hayek
     add_missing: true
 
@@ -368,6 +411,7 @@ collections:
     schedule: "06/21"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Chris Pratt
     add_missing: true
 
@@ -376,6 +420,7 @@ collections:
     schedule: "10/05"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Kate Winslet
     add_missing: true
 
@@ -384,6 +429,7 @@ collections:
     schedule: "10/08"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Matt Damon
     add_missing: true
 
@@ -392,6 +438,7 @@ collections:
     schedule: "06/04"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Angelina Jolie
     add_missing: true
 
@@ -400,6 +447,7 @@ collections:
     schedule: "12/18"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Brad Pitt
     add_missing: true
 
@@ -408,6 +456,7 @@ collections:
     schedule: "07/26"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Sandra Bullock
     add_missing: true
 
@@ -416,6 +465,7 @@ collections:
     schedule: "06/09"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Johnny Depp
     add_missing: true
 
@@ -424,6 +474,7 @@ collections:
     schedule: "10/28"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Julia Roberts
     add_missing: true
 
@@ -432,6 +483,7 @@ collections:
     schedule: "05/06"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday George Clooney
     add_missing: true
 
@@ -440,6 +492,7 @@ collections:
     schedule: "06/22"
     visible_home: true
     visible_library: true
+    visible_shared: true
     sort_title: ++Birthday Meryl Streep
     add_missing: true
 
@@ -448,4 +501,5 @@ collections:
     schedule: "09/09"
     visible_home: true
     visible_library: true
+    visible_shared: true
     add_missing: true
