@@ -41,3 +41,10 @@ collections:
       trakt: 
         - https://trakt.tv/users/hdlists/lists/the-top-100-halloween-movies-of-all-time
         - https://trakt.tv/users/donxy/lists/family-halloween
+  Valentine:
+    template: 
+      name: seasonal
+      season: Valentine
+      schedule: 02/010-02/16
+      trakt: 
+        - https://trakt.tv/users/pterisaur/lists/chick-flicks-24253191

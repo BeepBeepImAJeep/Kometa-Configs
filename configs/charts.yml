@@ -44,6 +44,9 @@ collections:
     template: {name: unwatched, library_type: <<library_type>>}
   IMDb Top 250:
     template: {name: imdb, chart: top}
+  IMDb Most popular TV shows:
+    template: {name: imdb, chart: tvmeter}
+    sonarr_add_missing: true
   TMDb Trending:
     template: {name: charts, website: TMDb}
     tmdb_trending_weekly: 100
