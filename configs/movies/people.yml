@@ -25,11 +25,23 @@ collections:
     template: {name: director, person: "1223, 1224"}
     summary: Joel and Ethan Coen, collectively referred to as the Coen Brothers, are American film directors, producers, screenwriters, and editors. Their films span many genres and styles, which they frequently subvert or parody.
     sort_title: ++Coen Brothers
+  Brad Pitt:
+    template: {name: actor, person: 287}
+  Jason Statham:
+    template: {name: actor, person: 976}
+  Scarlett Johansson:
+    template: {name: actor, person: 1245}
+  Dwayne Johnson:
+    template: {name: actor, person: 18918}
+  Liam Neeson:
+    template: {name: actor, person: 3896}
   Leonardo DiCaprio:
     template: {name: actor, person: 6193}
+  Harrison Ford:
+    template: {name: actor, person: 3}
+  Morgan Freeman:
+    template: {name: actor, person: 192}
   Martin Scorsese:
     template: {name: director, person: 1032}
   Quentin Tarantino:
     template: {name: director, person: 138}
-  Wes Anderson:
-    template: {name: director, person: 5655}
