@@ -22,3 +22,6 @@ playlists:
   South Park Top 100 Episodes:
     template: {name: top, imdb: tt0121955}
     summary: Top 100 episodes of South Park based on IMDb user rating.
+  Friends Top 100 Episodes:
+    template: {name: top, imdb: tt0108778}
+    summary: Top 100 episodes of Friends based on IMDb user rating.
