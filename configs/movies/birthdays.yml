@@ -448,3 +448,4 @@ collections:
     schedule: "09/09"
     visible_home: true
     visible_library: true
+    add_missing: true
