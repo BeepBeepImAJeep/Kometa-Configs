@@ -1,0 +1,13 @@
+collections:
+  Newest Releases:
+    tmdb_discover:
+      sort_by: release_date.desc
+      with_release_type: 3|2        # 3 = Theatrical (wide), 2 = Theatrical (limited)
+    filters:
+      release: 120                   # only include movies released in the last 90 days
+    collection_order: release.desc
+    sync_mode: sync
+    visible_home: true
+    visible_shared: true
+    summary: "The latest theatrical movie releases from the last 4 months, newest first."
+    sort_title: "!001_Newest Releases"
