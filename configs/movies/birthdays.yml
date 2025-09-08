@@ -1,0 +1,450 @@
+######################################################
+#                Birthday Collections                #
+######################################################
+
+templates:
+  director:
+    smart_filter:
+      director: tmdb
+      sort_by: release.asc
+      validate: true
+    tmdb_person: <<person>>
+    sort_title: ++<<collection_name>>
+  actor:
+    smart_filter:
+      actor: tmdb
+      sort_by: release.asc
+      validate: true
+    tmdb_person: <<person>>
+    sort_title: ++<<collection_name>>
+
+collections:
+  Matt Damon's Birthday:
+    template: {name: actor, person: 1892}
+    schedule: "10/08"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Matt Damon
+    add_missing: true
+
+  Angelina Jolie's Birthday:
+    template: {name: actor, person: 11701}
+    schedule: "06/04"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Angelina Jolie
+    add_missing: true
+
+  Brad Pitt's Birthday:
+    template: {name: actor, person: 287}
+    schedule: "12/18"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Brad Pitt
+    add_missing: true
+
+  Sandra Bullock's Birthday:
+    template: {name: actor, person: 18277}
+    schedule: "07/26"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Sandra Bullock
+    add_missing: true
+
+  Johnny Depp's Birthday:
+    template: {name: actor, person: 85}
+    schedule: "06/09"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Johnny Depp
+    add_missing: true
+
+  Julia Roberts's Birthday:
+    template: {name: actor, person: 1204}
+    schedule: "10/28"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Julia Roberts
+    add_missing: true
+
+  George Clooney's Birthday:
+    template: {name: actor, person: 1461}
+    schedule: "05/06"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday George Clooney
+    add_missing: true
+
+  Meryl Streep's Birthday:
+    template: {name: actor, person: 112}
+    schedule: "06/22"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Meryl Streep
+    add_missing: true
+
+  Hugh Grant's Birthday:
+    template: {name: actor, person: 4685}
+    schedule: "09/09"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Hugh Grant
+    add_missing: true
+
+  Cate Blanchett's Birthday:
+    template: {name: actor, person: 112}
+    schedule: "05/14"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Cate Blanchett
+    add_missing: true
+
+  Nicole Kidman's Birthday:
+    template: {name: actor, person: 2227}
+    schedule: "06/20"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Nicole Kidman
+    add_missing: true
+
+  Daniel Craig's Birthday:
+    template: {name: actor, person: 8784}
+    schedule: "03/02"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Daniel Craig
+    add_missing: true
+
+  Reese Witherspoon's Birthday:
+    template: {name: actor, person: 368}
+    schedule: "03/22"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Reese Witherspoon
+    add_missing: true
+
+  Ben Affleck's Birthday:
+    template: {name: actor, person: 880}
+    schedule: "08/15"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Ben Affleck
+    add_missing: true
+
+  Natalie Portman's Birthday:
+    template: {name: actor, person: 524}
+    schedule: "06/09"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Natalie Portman
+    add_missing: true
+
+  Ryan Gosling's Birthday:
+    template: {name: actor, person: 30614}
+    schedule: "11/12"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Ryan Gosling
+    add_missing: true
+
+  Anne Hathaway's Birthday:
+    template: {name: actor, person: 1813}
+    schedule: "11/12"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Anne Hathaway
+    add_missing: true
+
+  Chris Hemsworth's Birthday:
+    template: {name: actor, person: 74568}
+    schedule: "08/11"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Chris Hemsworth
+    add_missing: true
+
+  Emma Watson's Birthday:
+    template: {name: actor, person: 10990}
+    schedule: "04/15"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Emma Watson
+    add_missing: true
+
+  Harrison Ford's Birthday:
+    template: {name: actor, person: 3}
+    schedule: "07/13"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Harrison Ford
+    add_missing: true
+
+  Hugh Jackman's Birthday:
+    template: {name: actor, person: 6968}
+    schedule: "10/12"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Hugh Jackman
+    add_missing: true
+
+  Gal Gadot's Birthday:
+    template: {name: actor, person: 90633}
+    schedule: "04/30"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Gal Gadot
+    add_missing: true
+
+  Will Smith's Birthday:
+    template: {name: actor, person: 2888}
+    schedule: "09/25"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Will Smith
+    add_missing: true
+
+  Ana de Armas's Birthday:
+    template: {name: actor, person: 224513}
+    schedule: "04/30"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Ana de Armas
+    add_missing: true
+
+  Chris Evans's Birthday:
+    template: {name: actor, person: 16828}
+    schedule: "06/13"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Chris Evans
+    add_missing: true
+
+  Jennifer Lawrence's Birthday:
+    template: {name: actor, person: 72129}
+    schedule: "08/15"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Jennifer Lawrence
+    add_missing: true
+
+  Jason Momoa's Birthday:
+    template: {name: actor, person: 117642}
+    schedule: "08/01"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Jason Momoa
+    add_missing: true
+
+  Florence Pugh's Birthday:
+    template: {name: actor, person: 1397778}
+    schedule: "01/03"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Florence Pugh
+    add_missing: true
+
+  Idris Elba's Birthday:
+    template: {name: actor, person: 17605}
+    schedule: "09/06"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Idris Elba
+    add_missing: true
+
+  Emily Blunt's Birthday:
+    template: {name: actor, person: 5081}
+    schedule: "02/23"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Emily Blunt
+    add_missing: true
+
+  Jake Gyllenhaal's Birthday:
+    template: {name: actor, person: 131}
+    schedule: "12/19"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Jake Gyllenhaal
+    add_missing: true
+
+  Brie Larson's Birthday:
+    template: {name: actor, person: 60073}
+    schedule: "10/01"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Brie Larson
+    add_missing: true
+
+  Michael B. Jordan's Birthday:
+    template: {name: actor, person: 135651}
+    schedule: "02/09"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Michael B. Jordan
+    add_missing: true
+
+  Benedict Cumberbatch's Birthday:
+    template: {name: actor, person: 71580}
+    schedule: "07/19"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Benedict Cumberbatch
+    add_missing: true
+
+  Mila Kunis's Birthday:
+    template: {name: actor, person: 18973}
+    schedule: "08/14"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Mila Kunis
+    add_missing: true
+
+  Samuel L. Jackson's Birthday:
+    template: {name: actor, person: 2231}
+    schedule: "12/21"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Samuel L. Jackson
+    add_missing: true
+
+  Zoe Saldana's Birthday:
+    template: {name: actor, person: 8691}
+    schedule: "06/19"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Zoe Saldana
+    add_missing: true
+
+  Christian Bale's Birthday:
+    template: {name: actor, person: 3894}
+    schedule: "01/30"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Christian Bale
+    add_missing: true
+
+  Jessica Chastain's Birthday:
+    template: {name: actor, person: 83002}
+    schedule: "03/24"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Jessica Chastain
+    add_missing: true
+
+  Mark Ruffalo's Birthday:
+    template: {name: actor, person: 103}
+    schedule: "11/22"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Mark Ruffalo
+    add_missing: true
+
+  Charlize Theron's Birthday:
+    template: {name: actor, person: 6885}
+    schedule: "08/07"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Charlize Theron
+    add_missing: true
+
+  Paul Rudd's Birthday:
+    template: {name: actor, person: 22226}
+    schedule: "04/06"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Paul Rudd
+    add_missing: true
+
+  Salma Hayek's Birthday:
+    template: {name: actor, person: 3131}
+    schedule: "09/02"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Salma Hayek
+    add_missing: true
+
+  Chris Pratt's Birthday:
+    template: {name: actor, person: 73457}
+    schedule: "06/21"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Chris Pratt
+    add_missing: true
+
+  Kate Winslet's Birthday:
+    template: {name: actor, person: 204}
+    schedule: "10/05"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Kate Winslet
+    add_missing: true
+
+  Matt Damon's Birthday:
+    template: {name: actor, person: 1892}
+    schedule: "10/08"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Matt Damon
+    add_missing: true
+
+  Angelina Jolie's Birthday:
+    template: {name: actor, person: 11701}
+    schedule: "06/04"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Angelina Jolie
+    add_missing: true
+
+  Brad Pitt's Birthday:
+    template: {name: actor, person: 287}
+    schedule: "12/18"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Brad Pitt
+    add_missing: true
+
+  Sandra Bullock's Birthday:
+    template: {name: actor, person: 18277}
+    schedule: "07/26"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Sandra Bullock
+    add_missing: true
+
+  Johnny Depp's Birthday:
+    template: {name: actor, person: 85}
+    schedule: "06/09"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Johnny Depp
+    add_missing: true
+
+  Julia Roberts's Birthday:
+    template: {name: actor, person: 1204}
+    schedule: "10/28"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Julia Roberts
+    add_missing: true
+
+  George Clooney's Birthday:
+    template: {name: actor, person: 1461}
+    schedule: "05/06"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday George Clooney
+    add_missing: true
+
+  Meryl Streep's Birthday:
+    template: {name: actor, person: 112}
+    schedule: "06/22"
+    visible_home: true
+    visible_library: true
+    sort_title: ++Birthday Meryl Streep
+    add_missing: true
+
+  Hugh Grant's Birthday:
+    template: {name: actor, person: 4685}
+    schedule: "09/09"
+    visible_home: true
+    visible_library: true
