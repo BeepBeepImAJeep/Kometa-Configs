@@ -2,7 +2,7 @@ collections:
   Latest Episodes:
     smart_filter:
       type: show
-      sort_by: episode_air_date.desc
+      sort_by: episode_originally_available.desc
     sort_title: "!Latest Episodes"
     sync_mode: sync
     visible_library: true
