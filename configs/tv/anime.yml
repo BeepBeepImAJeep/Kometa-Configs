@@ -1,0 +1,7 @@
+collections:
+  Anime:
+    filters:
+      genre: Anime
+    sonarr_add_existing: true
+    sonarr_tag: anime
+    sonarr_series_type: anime
