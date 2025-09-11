@@ -45,6 +45,6 @@ collections:
     template: 
       name: seasonal
       season: Valentine
-      schedule: 02/010-02/16
+      schedule: 02/10-02/16
       trakt: 
         - https://trakt.tv/users/pterisaur/lists/chick-flicks-24253191
