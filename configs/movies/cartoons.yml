@@ -3,5 +3,6 @@ collections:
     smart_filter:
       all:
         audio_language: Danish
+      sort_by: release.desc
     sort_title: "!Tegnefilm Med Dansk Lydspor"
     sync_mode: sync
