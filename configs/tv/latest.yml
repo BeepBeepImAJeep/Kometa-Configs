@@ -1,8 +1,7 @@
 collections:
   Latest Episodes:
     smart_filter:
-      all:
-        type: show
+      all: {}
       sort_by: episode_originally_available.desc
     sort_title: "!Latest Episodes"
     sync_mode: sync
