@@ -1,0 +1,7 @@
+collections:
+  Tegnefilm Med Dansk Lydspor:
+    smart_filter:
+      all:
+        audio_language: Danish
+    sort_title: "!Tegnefilm Med Dansk Lydspor"
+    sync_mode: sync
